@@ -4,7 +4,7 @@ A Personal Portfolio Page built using React js.
 
 ## Install and Run
 
-* Clone this repo in your terminal with the command git clone https://github.com/yarinba/portfolio.git
+* Clone this repo in your terminal: `git clone https://github.com/yarinba/portfolio.git`
 * or just download it to your computer
 * change directory `cd portfolio`
 * run `npm install` in your terminal
